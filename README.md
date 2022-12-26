@@ -7,4 +7,6 @@ Offre l'accès aux chiffres sans presser sur la touche shift, et aux charactère
 
 En bonus les accents et cédilles majuscules via l'association ctrl+la touche accent correspondantes, par exemple pour taper É presser ctrl+é
 
+Pour télécharger l'installeur, c'est [par ici](https://github.com/cgiles/DispositionClavierFrChiffreDefault/releases/tag/master)
+
 Si vous souhaitez modifier cette disposition du clavier vous aurez besoin du logiciel Keyboard Loadout Creator, disponible à cette adresse : https://www.microsoft.com/en-us/download/details.aspx?id=102134
